@@ -4,7 +4,7 @@ export default function Home() {
       {/* Header */}
       <header className="sticky top-0 z-50 bg-white border-b border-gray-200">
         <nav className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <div className="text-2xl font-bold">JOEL ROHU</div>
+          <div className="text-2xl font-bold">JOEL Rohy</div>
           <div className="hidden md:flex gap-8">
             <a href="#work" className="text-sm hover:text-red-600 transition">
               Work
@@ -29,7 +29,7 @@ export default function Home() {
               </span>
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
-              JOEL<br />ROHU
+              JOEL<br />Rohy
             </h1>
             <p className="text-gray-600 text-lg mb-8 leading-relaxed max-w-lg">
               A passionate engineer with a keen eye for beautiful, functional design. I transform complex problems into elegant solutions.
@@ -162,7 +162,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-gray-50 border-t border-gray-200 py-8">
         <div className="max-w-6xl mx-auto px-6 text-center text-sm text-gray-600">
-          <p>&copy; 2026 Joel Rohu. All rights reserved.</p>
+          <p>&copy; 2026 Joel Rohy. All rights reserved.</p>
         </div>
       </footer>
     </div>
