@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Joel Rohu - Portfolio",
+  title: "Joel Rohy - Portfolio",
   description: "A passionate engineer with a keen eye for beautiful, functional design.",
 };
 

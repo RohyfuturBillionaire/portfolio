@@ -4,7 +4,7 @@ export default function Home() {
       {/* Header */}
       <header className="sticky top-0 z-50 bg-white border-b" style={{ borderColor: '#E0E0E0' }}>
         <nav className="max-w-6xl mx-auto px-6 py-4 flex items-center justify-between">
-          <div className="text-2xl font-bold">JOEL ROHU</div>
+          <div className="text-2xl font-bold">JOEL Rohy</div>
           <div className="hidden md:flex gap-8">
             <a href="#work" className="text-sm font-medium transition" style={{ color: '#0F7F7E' }}>
               Work
@@ -29,7 +29,7 @@ export default function Home() {
               </span>
             </div>
             <h1 className="text-5xl md:text-6xl font-bold leading-tight mb-6">
-              JOEL<br />ROHU
+              JOEL<br />Rohy
             </h1>
             <p className="text-lg mb-8 leading-relaxed max-w-lg" style={{ color: '#666' }}>
               Bridging tactile editorial aesthetics with high-performance software engineering. Focused on intentionality, code precision, and digital minimalism.
@@ -166,7 +166,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t py-8" style={{ backgroundColor: '#F2F2F2', borderColor: '#E0E0E0' }}>
         <div className="max-w-6xl mx-auto px-6 text-center text-sm" style={{ color: '#999' }}>
-          <p>&copy; 2026 Joel Rohu. All rights reserved.</p>
+          <p>&copy; 2026 Joel Rohy. All rights reserved.</p>
         </div>
       </footer>
     </div>
