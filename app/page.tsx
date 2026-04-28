@@ -32,7 +32,7 @@ export default function Home() {
               JOEL<br />Rohy
             </h1>
             <p className="text-gray-600 text-lg mb-8 leading-relaxed max-w-lg">
-              A passionate engineer with a keen eye for beautiful, functional design. I transform complex problems into elegant solutions.
+             A motivated and persevering young IT developer, eager to take on new challenges in order to deepen his skills in web and application development.
             </p>
             <a
               href="#contact"
@@ -42,7 +42,13 @@ export default function Home() {
             </a>
           </div>
           <div className="flex-1">
-            <div className="bg-gray-100 aspect-square rounded-lg" />
+            {/* <div className="bg-gray-100 aspect-square rounded-lg" />
+          </div> */}
+          <img
+            src="/profile.jpg"
+            alt="Joel Rohy"
+            className="w-full h-auto rounded-lg object-cover"
+          />
           </div>
         </div>
       </section>
